@@ -1,27 +1,27 @@
-# AplicaÁ„o Financeira (Banco)
+Ôªø# Aplica√ß√£o Financeira (Banco)
 
 
-## Regras de NegÛcio
+## Regras de Neg√≥cio
 
-1. SÛ pode sacar valores positivos maiores que zero
+1. S√≥ pode sacar valores positivos maiores que zero
 
-2. SÛ pode sacar de uma conta cujo o saldo È maior que zero
+2. S√≥ pode sacar de uma conta cujo o saldo √© maior que zero
 
-3. O valor do saque n„o pode ser maior do que o saldo
+3. O valor do saque n√£o pode ser maior do que o saldo
 
-4. Limite de valor para depÛsito
+4. Limite de valor para dep√≥sito
 
 5. Limite de valor para saque
 
-6. Descontar uma taxa (R$ 1,00) quando fizer uma transaÁ„o em uma conta
+6. Descontar uma taxa (R$ 1,00) quando fizer uma transa√ß√£o em uma conta
 corrente
 
-7. Calcular rendimentos de uma conta poupanÁa (no dias atuais 1%)
+7. Calcular rendimentos de uma conta poupan√ßa (no dias atuais 1%)
 
 8. Toda conta precisa ao ser aberta ter necessariamente um saldo de no
-mÌnimo R$ 100,00
+m√≠nimo R$ 100,00
 
-9. A conta corrente tem um limite de emprÈstimo (m·ximo de saldo negativo)
+9. A conta corrente tem um limite de empr√©stimo (m√°ximo de saldo negativo)
 no qual incide um juros a ser especificado (no dias atuais 12%)
 
-10. A conta corrente possui um crÈdito especial
+10. A conta corrente possui um cr√©dito especial
