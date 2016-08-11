@@ -13,8 +13,8 @@
 
 5. Limite de valor para saque
 
-6. Descontar uma taxa (R$ 1,00) quando fizer uma transação em uma conta
-corrente
+6. Descontar uma taxa (R$ 1,00) na conta de origem da transação, quando
+fizer uma transação em uma conta corrente
 
 7. Calcular rendimentos de uma conta poupança (no dias atuais 1%)
 
@@ -23,5 +23,3 @@ mínimo R$ 100,00
 
 9. A conta corrente tem um limite de empréstimo (máximo de saldo negativo)
 no qual incide um juros a ser especificado (no dias atuais 12%)
-
-10. A conta corrente possui um crédito especial
