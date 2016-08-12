@@ -14,6 +14,11 @@ public class ContaCorrente implements Conta {
 
 	@Override
 	public void saque(double valor) {
+		if (valor <= 0.00) {
+			throw new IllegalArgumentException(
+				"não pode sacar valores menores que zero"
+			);
+		}
 		saldo = saldo - valor;
 	}
 
